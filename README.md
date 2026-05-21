@@ -2,4 +2,4 @@
 
 | Course | Semester | Laboratoire | Due Date
 | :-------- | :-------: | :--------: | :--------: |
-| SEG3503 | Été 2026 | Intro à Git et GitHub | 25 mai 2026 |
+| SEG3503 | Été 2026 | Intro à Git et GitHub | 1er juin 2026 |
